@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 
-This project is an interactive application that lets the user draw digits (0-9) with a mouse and uses a Convolutional Neural Network (CNN) to predict the drawn digit in real-time. Built with Python, Pygame, and Keras, it combines a simple drawing interface with a pre-trained MNIST model to recognize handwritten digits. (99.02% Accuracy)
+This project is an interactive application that lets the user draw digits (0-9) with a mouse and uses a Convolutional Neural Network (CNN) to predict the drawn digit in real-time. Built with Python, Pygame, and Keras, it combines a simple drawing interface with a pre-trained MNIST model to recognize handwritten digits. (99.02% Overall Accuracy)
 
 
 <p align="center">
