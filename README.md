@@ -1,12 +1,23 @@
 # Handwritten-Digit-Recognition
 
-This project is an interactive application that lets the user draw digits (0-9) with a mouse and uses a Convolutional Neural Network (CNN) to predict the drawn digit in real-time. Built with Python, Pygame, and Keras, it combines a simple drawing interface with a pre-trained MNIST model to recognize handwritten digits.
+This project is an interactive application that lets the user draw digits (0-9) with a mouse and uses a Convolutional Neural Network (CNN) to predict the drawn digit in real-time. Built with Python, Pygame, and Keras, it combines a simple drawing interface with a pre-trained MNIST model to recognize handwritten digits. (99.02% Accuracy)
 
 
 <p align="center">
    
 ![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
-
+| precision | recall | f1-score | support |  |
+|---|---|---|---|---|
+| 0 | 0.9929 | 0.9929 | 0.9929 | 980 |
+| 1 | 0.9930 | 0.9947 | 0.9938 | 1135 |
+| 2 | 0.9893 | 0.9884 | 0.9889 | 1032 |
+| 3 | 0.9930 | 0.9891 | 0.9911 | 1010 |
+| 4 | 0.9889 | 0.9969 | 0.9929 | 982 |
+| 5 | 0.9673 | 0.9955 | 0.9812 | 892 |
+| 6 | 0.9958 | 0.9843 | 0.9900 | 958 |
+| 7 | 0.9836 | 0.9922 | 0.9879 | 1028 |
+| 8 | 0.9907 | 0.9815 | 0.9861 | 974 |
+| 9 | 0.9919 | 0.9722 | 0.9820 | 1009 |
 ![image](https://github.com/user-attachments/assets/d6427a7e-0138-44cb-b626-2de220037930)
 
 </p>
