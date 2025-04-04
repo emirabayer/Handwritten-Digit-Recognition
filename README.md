@@ -68,3 +68,5 @@ This project is an interactive application that lets the user draw digits (0-9) 
   sklearn
   seaborn
 
+![digit_detector_confusion_matrix](https://github.com/user-attachments/assets/cb0740cc-0e09-4898-b7aa-b1f59bbb4444)
+
