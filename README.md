@@ -20,7 +20,7 @@ This project is an interactive application that lets the user draw digits (0-9) 
 | 8      | 0.9907    | 0.9815 | 0.9861   | 974     |
 | 9      | 0.9919    | 0.9722 | 0.9820   | 1009    |
 
-(Confusion Matrix Below)
+_See the confusion matrix at the end of this README_
 </p>
 
 
