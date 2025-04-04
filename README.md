@@ -7,8 +7,19 @@ This project is an interactive application that lets the user draw digits (0-9) 
    
 ![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
 
-![Screenshot 2025-04-04 193409](https://github.com/user-attachments/assets/7c55dd1d-5547-4da9-ab91-3e2762e523be)
-
+| digits | precision | recall | f1-score | support |
+|--------|-----------|--------|----------|---------|
+| 0      | 0.9929    | 0.9929 | 0.9929   | 980     |
+| 1      | 0.9930    | 0.9947 | 0.9938   | 1135    |
+| 2      | 0.9893    | 0.9884 | 0.9889   | 1032    |
+| 3      | 0.9930    | 0.9891 | 0.9911   | 1010    |
+| 4      | 0.9889    | 0.9969 | 0.9929   | 982     |
+| 5      | 0.9673    | 0.9955 | 0.9812   | 892     |
+| 6      | 0.9958    | 0.9843 | 0.9900   | 958     |
+| 7      | 0.9836    | 0.9922 | 0.9879   | 1028    |
+| 8      | 0.9907    | 0.9815 | 0.9861   | 974     |
+| 9      | 0.9919    | 0.9722 | 0.9820   | 1009    |
+(Confusion Matrix Below)
 </p>
 
 
@@ -57,6 +68,5 @@ This project is an interactive application that lets the user draw digits (0-9) 
   sklearn
   seaborn
 
-
-![digit_detector_confusion_matrix](https://github.com/user-attachments/assets/f277fb32-b36f-4f53-a175-ffb7d724b55a)
-
+  
+![digit_detector_confusion_matrix](https://github.com/user-attachments/assets/46a2e3b5-2bf4-4a99-94b7-75689d4cdfbf)
