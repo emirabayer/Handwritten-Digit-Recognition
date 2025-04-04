@@ -7,7 +7,7 @@ This project is an interactive application that lets the user draw digits (0-9) 
    
 ![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
 
-| digits | precision | recall | f1-score | support |
+| Digits | Precision | Recall | F1-score | Support |
 |--------|-----------|--------|----------|---------|
 | 0      | 0.9929    | 0.9929 | 0.9929   | 980     |
 | 1      | 0.9930    | 0.9947 | 0.9938   | 1135    |
