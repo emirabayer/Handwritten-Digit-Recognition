@@ -20,7 +20,7 @@ This project is an interactive application that lets the user draw digits (0-9) 
 | 8      | 0.9907    | 0.9815 | 0.9861   | 974     |
 | 9      | 0.9919    | 0.9722 | 0.9820   | 1009    |
 
-![image](https://github.com/user-attachments/assets/d6427a7e-0138-44cb-b626-2de220037930)
+![digit_detector_confusion_matrix](https://github.com/user-attachments/assets/fb77c7ab-8e37-4f94-b11f-c46ab2b19b93)
 
 </p>
 
