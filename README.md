@@ -2,6 +2,10 @@
 
 This project is an interactive application that lets the user draw digits (0-9) with a mouse and uses a Convolutional Neural Network (CNN) to predict the drawn digit in real-time. Built with Python, Pygame, and Keras, it combines a simple drawing interface with a pre-trained MNIST model to recognize handwritten digits.
 
+
+![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
+
+
 ## Features
 - **Draw Digits**: Using a mouse to draw digits on a 640x480 canvas.
 - **Real-Time Prediction**: A pre-trained CNN predicts the digit as soon as drawing is finished.
@@ -47,6 +51,3 @@ This project is an interactive application that lets the user draw digits (0-9) 
   sklearn
   seaborn
 
-
-
-  ![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
