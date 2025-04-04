@@ -7,6 +7,8 @@ This project is an interactive application that lets the user draw digits (0-9) 
    
 ![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
 
+![image](https://github.com/user-attachments/assets/d6427a7e-0138-44cb-b626-2de220037930)
+
 </p>
 
 
