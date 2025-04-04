@@ -46,3 +46,7 @@ This project is an interactive application that lets the user draw digits (0-9) 
   matplotlib
   sklearn
   seaborn
+
+
+
+  ![Image](https://github.com/user-attachments/assets/275cf419-fc5b-447e-b435-f44e4980f11f)
