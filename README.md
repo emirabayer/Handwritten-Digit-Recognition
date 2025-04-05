@@ -59,15 +59,10 @@ _See the confusion matrix at the end of this README_
 ## Prerequisites
 - Python 3.6+
 - Required libraries for the application:
-  numpy
-  keras
-  pygame
-  opencv-python
+  numpy, keras, pygame, opencv-python
 
 - Additional libraries necessary for retraining and analyzing the model:
-  matplotlib
-  sklearn
-  seaborn
+  matplotlib, sklearn, seaborn
 
   
 ![digit_detector_confusion_matrix](https://github.com/user-attachments/assets/46a2e3b5-2bf4-4a99-94b7-75689d4cdfbf)
