@@ -58,10 +58,10 @@ _See the confusion matrix at the end of this README_
 
 ## Prerequisites
 - Python 3.6+
-- Required libraries for the application: \n
+- Required libraries for the application: <br/>
   numpy, keras, pygame, opencv-python
 
-- Additional libraries necessary for retraining and analyzing the model: \n
+- Additional libraries necessary for retraining and analyzing the model: <br/>
   matplotlib, sklearn, seaborn
 
   
